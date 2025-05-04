@@ -1,1 +1,24 @@
+# https://python.org
 
+"""
+https://python.org
+"""
+'''
+https://python.org
+'''
+
+my_variable = "comercial"
+my_variable = "eba comercial"
+
+# Python NO TIENE CONSTANTES
+
+my_CONSTANT = "mi constante" # por convencion
+
+my_int = 6
+My_float = 6.9
+my_bool = true
+my_bool = false
+my_string = "mi cadena de texto"
+my_other_string = "mi otra cadena de texto"
+
+print("Hola Python!")
